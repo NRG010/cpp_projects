@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 int main() {
   char gameBoard[3][3];
